@@ -99,7 +99,7 @@ export default function Accueil({ setPath, setUserPseudo, userPseudo }) {
                   </div>
                   <img
                     className="pictureAstro"
-                    src="assets/alien2.png"
+                    src="assets/alien2.b5404803.png"
                     alt="astro"
                   />
                 </div>
