@@ -1,6 +1,6 @@
 .backgroundGlitch{
     padding-top: 100px;
-    background-image: url("src/assets/imgAreYou/blackhole.gif");
+    background-image: url("/src/assets/imgAreYou/blackhole.gif");
     background-size: cover;
     font-family: "Varela", sans-serif;
     height: 800px;
