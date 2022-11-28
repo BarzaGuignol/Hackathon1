@@ -1,5 +1,6 @@
 import React from 'react';
-import './catSpace.css'
+import './catSpace.css';
+import "../assets/videoCat/catSpace.mp4";
 
 export default function CatSpace({ setPath }) {
   return (
