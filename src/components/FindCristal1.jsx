@@ -27,7 +27,7 @@ export default function FindCristal1({ checkQuest, setPlanet1isIsClickable, setP
         <h2 className="planet-rules">Crait was a distant planet in the galaxy. This world was rich in minerals, including red rhodochrosite, crystals essential for the use of hyperspeed! <br /> Here we go, <span>we must find the crystal hidden</span> in this picture.</h2>
         <div className="search-crystal-container">
           <button onClick={dNoneRules} type='button' className="btn-cristal-1">Search it</button>
-          <img className="crystal-imgSize" src="./src/assets/crystal-1.png" alt="" />
+          <img className="crystal-imgSize" src="/assets/crystal-1.png" alt="" />
         </div>
 
       </div>
