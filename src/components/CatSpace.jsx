@@ -8,7 +8,7 @@ export default function CatSpace({ setPath }) {
       <div>
       <h3>It's break time, enjoy it...</h3>
         <video controls>
-            <source src="src/assets/videoCat/catSpace.mp4" type="video/mp4" />
+            <source src="assets/catSpace.dc905421.mp4" type="video/mp4" />
         </video>
       </div>
       <button className='buttonCatSpace' onClick={() => setPath('/SuperQuizz')}>Next</button>
