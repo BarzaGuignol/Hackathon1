@@ -1,6 +1,7 @@
 /* eslint-disable react/prop-types */
 import React, { useState } from "react";
 import "./findCristal1.css";
+import "../assets/crystal-1.png";
 
 export default function FindCristal1({ checkQuest, setPlanet1isIsClickable, setPath }) {
   const [displayRules, setDisplayRules] = useState(true);
