@@ -32,7 +32,7 @@
     /* font-size: large; */
 }
 .myCristal {
-    background-image: url('src/assets/crystal-1.png');
+    background-image: url('/src/assets/crystal-1.png');
     height: 300px;
     width: 300px;
 }
