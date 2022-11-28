@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 
-import ColorCard from "./compoSimon/colorCard";
+import ColorCard from "/src/components/compoSimon/ColorCard.jsx";
 import timeout from "./utilsSimon/util";
 import "./compoSimon/colorCard.css";
 import "./simon.css";
