@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import "./accueil.css";
 import "../components/bubble.css";
-import "../assets/alien2.png";
+import "/src/assets/alien2.png";
 
 export default function Accueil({ setPath, setUserPseudo, userPseudo }) {
   const [displayUser, setDisplayUser] = useState(false);
