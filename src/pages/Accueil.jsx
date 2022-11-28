@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import "./accueil.css";
 import "../components/bubble.css";
+import "../assets/alien2.png";
 
 export default function Accueil({ setPath, setUserPseudo, userPseudo }) {
   const [displayUser, setDisplayUser] = useState(false);
@@ -98,7 +99,7 @@ export default function Accueil({ setPath, setUserPseudo, userPseudo }) {
                   </div>
                   <img
                     className="pictureAstro"
-                    src="../src/assets/alien2.png"
+                    src="src/assets/alien2.png"
                     alt="astro"
                   />
                 </div>
