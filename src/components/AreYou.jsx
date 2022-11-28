@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import './areYou.css';
+import "../assets/sound/screamScarry.mp3";
 
 export default function AreYou({ setPath }) {
 
