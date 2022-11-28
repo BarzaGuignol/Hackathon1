@@ -1,5 +1,5 @@
 .findCristalBg4{
-    background-image: url('./src/assets/bg-planet-4.jpg');
+    background-image: url('/src/assets/bg-planet-4.jpg');
     background-repeat: no-repeat;
     /* background-size: cover; */
     height: 800px;
@@ -9,7 +9,7 @@
 
 .myCristal-toFind4{
     background: none;
-    background-image: url('src/assets/crystal-4.png');
+    background-image: url('/src/assets/crystal-4.png');
     background-position: center;
     background-size: cover;
     height: 30px;
@@ -32,7 +32,7 @@
 }
 
 .myCristal4{
-    background-image: url('src/assets/crystal-4.png');
+    background-image: url('/src/assets/crystal-4.png');
     height: 300px;
     width: 300px;
 }
